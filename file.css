@@ -1,0 +1,74 @@
+body{
+  background-image:url(background.jpg);
+  background-size: cover;
+
+}
+
+header{
+  text-align: center;
+  margin-top: 130px;
+}
+
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+.logo-name{
+  width: 250px;
+}
+
+.explanation{
+  font-size: 30px;
+  color: #14d928;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+nav{
+  text-align: center;
+  background-color: #14d928;
+  padding: 10px;
+}
+
+.scooter-name{
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+
+
+.street, .charge{
+  color: white;
+  font-size: 20px;
+}
+
+.state-charge1{
+  height: 30px;
+  width: 280px;
+ background: orange;
+ padding-left: 20px;
+ padding-right: 20px;
+ border-radius: 7px
+}
+
+.state-charge2{
+  height: 30px;
+  width: 600px;
+ background: #14d928;
+ padding-left: 20px;
+ padding-right: 20px;
+ border-radius: 7px
+}
+
+.state-charge3{
+  height: 30px;
+  width: 150px;
+ background: red;
+ padding-left: 20px;
+ padding-right: 20px;
+ border-radius: 7p
+}
